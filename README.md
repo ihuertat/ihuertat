@@ -32,8 +32,8 @@
   <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/virtualbox.png"/> </a>
   <a href="https://getfedora.org/es/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/> </a>
   <a href="https://www.latex-project.org/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/latex.png"/> </a>
-  
- 
+   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">  <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/></a>
+   <a href="https://www.qt.io/">  <img src="https://img.icons8.com/ios/50/000000/qt.png"/> </a>
 </p>
 
 <br/>

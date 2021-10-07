@@ -31,6 +31,9 @@
     <a href="https://developer.nvidia.com/cuda-zone" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/nvidia.png"/> </a>
   <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/virtualbox.png"/> </a>
   <a href="https://getfedora.org/es/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/> </a>
+  <a href="https://www.latex-project.org/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/latex.png"/> </a>
+  
+ 
 </p>
 
 <br/>
@@ -40,6 +43,25 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Iliac's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ihuertat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+## 📊 Mis estadísticas en Github
+
+  <br/>
+    <a href="https://github.com/ihuertat/github-readme-stats"><img alt="Iliac's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ihuertat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+  <br/>
+  
+  **Nota:** Top de lenguajes es sólo una métrica de los lenguajes usados en mis repositorios públicos en github, no reflejan mi experiencia ni habilidades en los diferentes lenguajes de programación que utilizo.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/ihuertat/github-readme-activity-graph"><img alt="Iliac's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ihuertat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 
 ## Contacto conmigo:
 <p align="left">

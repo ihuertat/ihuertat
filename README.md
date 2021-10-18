@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="#"><img width="40%" height="auto" src="https://imgur.com/v1whKCr.gif" height="175px"/></a>
+  <a href="#"><img width="45%" height="auto" src="https://imgur.com/v1whKCr.gif" height="175px"/></a>
 </p>
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy Iliac Huerta</h1>

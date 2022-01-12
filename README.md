@@ -7,7 +7,7 @@
 <h3 align="center">PhD. en Ciencias de la Computaci&oacuten.</h3>
 
 
-## 🙋‍♂️ Acerca de mi:
+## 🙋‍Acerca de mi:
 
 - 🔭 Actualmente colaboro con el lab. de Robótica y mecatrónica del Centro de Investigación en computación desarrollando proyectos.
 
